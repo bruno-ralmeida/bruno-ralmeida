@@ -13,7 +13,7 @@
 <hr>
 <br>
 
-> ## Studying 🧠
+> ## Stacks 🧠
 <br>
 
 <div align="center">
