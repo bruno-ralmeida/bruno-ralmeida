@@ -50,9 +50,9 @@
 > ## Coding Activity 🚀️
 
 <br>
-<img width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=tokyonight"
+<img width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=tokyonight"
     />
 
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=tokyonight"
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=tokyonight"
     />
 
