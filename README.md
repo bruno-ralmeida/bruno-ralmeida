@@ -1,16 +1,59 @@
-### Hi there 👋
+## Hi, i'm Bruno Almeida! 👨🏾‍💻
 
-<!--
-**bruno-ralmeida/bruno-ralmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+#### 🔭 I'm a full-stack developer at Totvs JurITs. 🔥 
+#### ⚡ I'm currently studying Information Systems at Universidade São Judas. 📚️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+#### 📍️ I'm from São Paulo, Brazil ☕️ 🇧🇷️
+#### 🌱 I’m currently learning VueJs and ReactJs 🤯️
+<br>
+<hr>
+<br>
+
+> ## Studying 🧠
+<br>
+
+<div align="center">
+<img src="https://img.icons8.com/color/32/000000/javascript.png"/>
+
+<img src="https://img.icons8.com/color/32/000000/html-5.png"/>
+
+<img src="https://img.icons8.com/color/32/000000/css3.png"/>
+
+<img src="https://img.icons8.com/color/32/000000/vue-js.png"/>
+
+<img src="https://img.icons8.com/plasticine/32/000000/react.png"/>
+</div>
+<br>
+<hr>
+<br>
+
+> ## Contact 📲️
+<br>
+
+<div align="center"> 
+<a href="https://github.com/bruno-ralmeida">
+  <img src="https://img.icons8.com/ios-filled/36/000000/github.png"/>
+</a>
+<a href="https://www.linkedin.com/in/brunor-almeida/">
+<img src="https://img.icons8.com/fluent/38/000000/linkedin.png"/>
+</a>
+</div>
+
+<br>
+<hr>
+<br>
+
+> ## Coding Activity 🚀️
+
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=tokyonight"
+    />
+<br>
+<img  src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=tokyonight"
+    />
+</div>
