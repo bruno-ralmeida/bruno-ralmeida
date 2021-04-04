@@ -35,10 +35,10 @@
 <br>
 
 <div align="center"> 
-<a href="https://github.com/bruno-ralmeida" target="blank">
+<a href="https://github.com/bruno-ralmeida">
   <img src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
 </a>
-<a href="https://www.linkedin.com/in/brunor-almeida/" target="blank">
+<a href="https://www.linkedin.com/in/brunor-almeida/">
 <img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
 </a>
 </div>
