@@ -29,6 +29,8 @@
 
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/>
+
 </div>
 <br>
 <hr>
