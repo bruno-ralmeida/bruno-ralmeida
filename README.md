@@ -26,6 +26,9 @@
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+
 </div>
 <br>
 <hr>
