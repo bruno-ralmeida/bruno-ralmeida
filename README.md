@@ -13,7 +13,7 @@
 <hr>
 <br>
 
-> ## Technologies 🧠
+## Technologies 🧠
 <br>
 
 <div align="center">
@@ -43,7 +43,7 @@
 <hr>
 <br>
 
-> ## Contact 📲️
+## Contact 📲️
 <br>
 
 <div align="center"> 
@@ -59,7 +59,7 @@
 <hr>
 <br>
 
-> ## Coding Activity 🚀️
+## Coding Activity 🚀️
 
 <br>
 <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=dracula"
