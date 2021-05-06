@@ -62,9 +62,9 @@
 ## Coding Activity 🚀️
 
 <br>
-<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=dracula"
+<img width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=dracula"
     />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=dracula"
+<img width="auto" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=dracula"
     />
 
