@@ -8,7 +8,7 @@ Sou <b>Desenvolvedor Full-stack</b> na <b>TOTVS JurITis</b> e estudante do últi
 
 </p>
 
-#### 💬 Contato
+### 💬 Contato
 
 <a href="mailto:bruno-ralmeida@outlook.com" alt="Telegram">
 <img src="https://img.shields.io/badge/-Outlook-0078d4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=bruno-ralmeida@outlook.com" /></a>
@@ -19,7 +19,7 @@ Sou <b>Desenvolvedor Full-stack</b> na <b>TOTVS JurITis</b> e estudante do últi
 <a href="https://t.me/bruno_ralmeida" alt="Telegram">
 <img src="https://img.shields.io/badge/-Telegram-26a6e4?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/bruno_ralmeida" /></a>
 
-#### ⚡ Tecnologias
+### ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já estudei:
 
