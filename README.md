@@ -41,7 +41,3 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
-
-
-Available as github action. Automatically generate a new image at the end of the day. Which make for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/bruno-ralmeida/bruno-ralmeida/edit/main/README.md)
-
