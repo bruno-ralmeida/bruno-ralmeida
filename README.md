@@ -41,3 +41,17 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
+
+
+## Coding Activity 🚀️
+
+
+<img width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=dracula"
+    />
+
+<img width="auto" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=dracula"
+    />
+
+https://raw.githubusercontent.com/bruno-ralmeida/snk/output/github-contribution-grid-snake.svg
+
+
