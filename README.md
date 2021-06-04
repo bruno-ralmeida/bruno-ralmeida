@@ -50,6 +50,5 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 
 <img width="auto" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=dracula"/>
 
-<img width="auto" src="https://raw.githubusercontent.com/bruno-ralmeida/snk/output/github-contribution-grid-snake.gif" />
-
+![Snake animation](https://github.com/rafaballerini/bruno-ralmeida/blob/output/github-contribution-grid-snake.svg)
 
