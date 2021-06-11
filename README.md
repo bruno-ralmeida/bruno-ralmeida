@@ -33,6 +33,8 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=Typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -40,7 +42,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 
 ## Coding Activity 🚀️
