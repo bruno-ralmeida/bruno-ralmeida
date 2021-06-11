@@ -35,6 +35,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/c%23-239120?style=flat-square&logo=c-sharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
