@@ -4,7 +4,7 @@
 
 ### Olá, meu nome é Bruno Almeida.
 
-Sou <b>Desenvolvedor Back-End</b> no <b>Banco Pan</b> e estudante do último ano de Sistemas de informação na Universidade São Judas Tadeu.
+Sou <b>Desenvolvedor Full-Stack</b> no <b>Banco Pan</b> e estudante do último ano de Sistemas de informação na Universidade São Judas Tadeu.
 
 </p>
 
