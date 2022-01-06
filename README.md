@@ -4,7 +4,10 @@
 
 ### Olá, meu nome é Bruno Almeida.
 
-Sou <b>Desenvolvedor Full-Stack</b> no <b>Banco Pan</b> e estudante do último ano de Sistemas de informação na Universidade São Judas Tadeu.
+  
+Sou formado em Sistemas de Informação na Universidade São Judas Tadeu.
+
+Atualmente trabalho como <b>Desenvolvedor Full-Stack</b> (Java e Angular) no <b>Banco Pan</b>. 
 
 </p>
 
@@ -23,8 +26,11 @@ Sou <b>Desenvolvedor Full-Stack</b> no <b>Banco Pan</b> e estudante do último a
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já estudei:
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node-dot-js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -33,7 +39,6 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=Typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/c%23-239120?style=flat-square&logo=c-sharp)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -44,12 +49,12 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já es
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
-
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## Coding Activity 🚀️
 
-
+<div>
 <img width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&layout=compact&theme=dracula"/>
 
 <img width="auto" src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&theme=dracula"/>
-
+</div>
