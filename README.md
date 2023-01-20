@@ -5,12 +5,12 @@
 
 ### <div align="center">Olá, meu nome é Bruno Almeida</div>  
   
-
+<img src="flame-extraterrestrial-civilization.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 Formado em Sistemas de Informação pela Universidade São Judas Tadeu, sou engenheiro de software com experiência em Java, Spring Boot, Spring Batch, Javascript e banco de dados relacional Oracle. Tenho foco em aprimorar minhas habilidades técnicas e em prover soluções de alto desempenho, especialmente em processamento em lote (batch). Além disso, possuo conhecimentos em PL/SQL, C# e .NET.  
   
 
 <br/>  
-<img src="flame-extraterrestrial-civilization.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
