@@ -73,9 +73,9 @@ Formado em Sistemas de Informação pela Universidade São Judas Tadeu, sou enge
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=bruno-ralmeida&show_icons=true&count_private=true&hide_border=true"  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ralmeida&hide_border=true&layout=compact" />  
 
 <br/>  
 
